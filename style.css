@@ -1,0 +1,37 @@
+#wrap{
+    text-align: center;
+    margin-top: 50px;
+}
+header,
+nav,
+section,
+footer{
+    margin-bottom: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+header a{
+    color: blue ;
+    text-decoration: none;  
+}
+nav{
+    background-color: blue
+}
+nav a{
+    color: yellow;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 20px;
+    font-size: 20px;
+    border-right: 1px solid rgb(26, 25, 25);
+    padding-right: 20px;
+
+}
+section{
+    margin-top:20px ;
+}
+section iframe,
+section img{
+    width: 960px;
+    height: 600px;
+}
